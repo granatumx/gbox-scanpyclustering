@@ -1,6 +1,6 @@
 id: ScanpyClustering-{VER}
 meta:
-  title: Clustering {VER}
+  title: ScanpyClustering {VER}
   subtitle: >-
     Find groups of cells that are similar (Louvain graph-clustering, backed by
     Scanpy)
